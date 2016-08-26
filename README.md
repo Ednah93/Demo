@@ -1,5 +1,5 @@
 # Demo
-Library capentry
+How GitHub works
 
 ## Library Capentry
 
